@@ -1,4 +1,4 @@
-### Hi, my name is Paulo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, my name is Paulo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 [![Website](https://img.shields.io/website?label=agenciabadoque.com&style=for-the-badge&url=https%3A%2F%2Fpages.agenciabadoque.com.br)](https://agenciabadoque.com)
 
