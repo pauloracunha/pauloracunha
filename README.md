@@ -9,3 +9,6 @@ Database: MySQL, ElasticSearch
 
 ## Experience
 I have been working professionally as a programmer since early 2019, gaining extensive experience in PHP (Laravel, Lumen, CakePHP) and JavaScript (NestJS, NextJS, FlowJS). I have also been involved in the development of a search system for a major retail store using ElasticSearch.
+
+## Current Studies
+Currently, I am expanding my skillset by studying ExpoJS and React Native for app development. I am excited to explore the possibilities of creating mobile applications using these technologies and staying up-to-date with the latest trends in the field.
